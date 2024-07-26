@@ -28,6 +28,7 @@ The objective is to synchronize marketing tactics with customer preferences and 
 ## Final Deliverable
 
 For a comprehensive overview of my findings and recommendations, please see the [final project PDF](https://github.com/Mae-Shahvirdi/SQL-queries/blob/main/Rockbuster%20Presentation.pdf).
+or see this link in [Tableau](https://public.tableau.com/app/profile/mea.shahvirdi/viz/RockbusterStealthDataAnalysis_17219995735590/RockbusterStealthDataAnalysis?publish=yes).
 
 
 
